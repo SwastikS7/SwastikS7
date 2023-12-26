@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SwastikS7
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java and full-stack development
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : My email- swastiksave@gmail.com
 
